@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='Input-output'/>
+        <page name='all'/>
+        <page name='condition'/>
+        <page name='Loop'/>
+        <page name='Array'/>
+        <page name='Set'/>
+        <page name='Dictonary'/>
+    </pages>
 </playground>
