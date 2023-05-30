@@ -8,5 +8,7 @@
         <page name='Array'/>
         <page name='Set'/>
         <page name='Dictonary'/>
+        <page name='Tuple'/>
+        <page name='Function'/>
     </pages>
 </playground>
