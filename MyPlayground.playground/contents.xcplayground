@@ -10,5 +10,7 @@
         <page name='Dictonary'/>
         <page name='Tuple'/>
         <page name='Function'/>
+        <page name='Enum'/>
+        <page name='Structs'/>
     </pages>
 </playground>
